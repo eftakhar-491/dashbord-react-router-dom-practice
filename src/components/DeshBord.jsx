@@ -51,10 +51,10 @@ export default function DeshBord() {
       const [_, e, w, s, n] = pre;
       return [
         { itemCategory: [] },
-        { name: "east", value: e.value },
-        { name: "west", value: w.value },
-        { name: "south", value: s.value },
-        { name: "north", value: n.value },
+        { name: "east", value: 0 },
+        { name: "west", value: 0 },
+        { name: "south", value: 0 },
+        { name: "north", value: 0 },
       ];
     });
   }
