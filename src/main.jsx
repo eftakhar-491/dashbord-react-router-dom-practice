@@ -5,11 +5,13 @@ import "./index.css";
 import App from "./App.jsx";
 import Home from "./components/Home.jsx";
 import About from "./components/About.jsx";
+import axios from "axios";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
+    loader: () => axios.get("/data.json"),
     children: [
       {
         path: "/h1",

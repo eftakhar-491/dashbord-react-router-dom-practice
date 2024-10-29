@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 export const Nav = () => {
   return (
     <ol>
-      <Link to={"/h1"}>
+      {/* <Link to={"/h1"}>
         {" "}
         <li>h1</li>
       </Link>
@@ -15,7 +15,7 @@ export const Nav = () => {
       <Link to={"/h3"}>
         {" "}
         <li>h3</li>
-      </Link>
+      </Link> */}
     </ol>
   );
 };
