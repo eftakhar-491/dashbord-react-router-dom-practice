@@ -1,0 +1,577 @@
+[
+  { "Seller": "Ap Enterprise", "Region": "east", "Item": "Mouse", "Sale": 100 },
+  { "Seller": "Pc Zone", "Region": "west", "Item": "Keyboard", "Sale": 200 },
+  { "Seller": "Super Pc", "Region": "north", "Item": "Printer", "Sale": 150 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "south",
+    "Item": "Wireless Mouse",
+    "Sale": 160
+  },
+  {
+    "Seller": "New Computers",
+    "Region": "east",
+    "Item": "Keyboard",
+    "Sale": 130
+  },
+  { "Seller": "Modern Tech", "Region": "west", "Item": "Printer", "Sale": 160 },
+  { "Seller": "Super Tech", "Region": "north", "Item": "Mouse", "Sale": 176 },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "south",
+    "Item": "Keyboard",
+    "Sale": 156
+  },
+  { "Seller": "Pc Zone", "Region": "east", "Item": "Printer", "Sale": 190 },
+  { "Seller": "Super Pc", "Region": "west", "Item": "Mouse", "Sale": 144 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "north",
+    "Item": "Keyboard",
+    "Sale": 155
+  },
+  {
+    "Seller": "New Computers",
+    "Region": "south",
+    "Item": "Printer",
+    "Sale": 166
+  },
+  { "Seller": "Modern Tech", "Region": "east", "Item": "Scanner", "Sale": 144 },
+  { "Seller": "Super Tech", "Region": "west", "Item": "Pendrive", "Sale": 177 },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "north",
+    "Item": "Hard Disk",
+    "Sale": 199
+  },
+  { "Seller": "Pc Zone", "Region": "east", "Item": "Speaker", "Sale": 200 },
+  {
+    "Seller": "Super Pc",
+    "Region": "west",
+    "Item": "Wireless Mouse",
+    "Sale": 230
+  },
+  { "Seller": "Abc Enterprise", "Region": "north", "Item": "Cpu", "Sale": 430 },
+  {
+    "Seller": "New Computers",
+    "Region": "south",
+    "Item": "Mouse",
+    "Sale": 230
+  },
+  {
+    "Seller": "Modern Tech",
+    "Region": "east",
+    "Item": "Keyboard",
+    "Sale": 430
+  },
+  { "Seller": "Super Tech", "Region": "west", "Item": "Printer", "Sale": 199 },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "north",
+    "Item": "Wireless Mouse",
+    "Sale": 140
+  },
+  { "Seller": "Pc Zone", "Region": "south", "Item": "Keyboard", "Sale": 260 },
+  { "Seller": "Super Pc", "Region": "east", "Item": "Printer", "Sale": 300 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "west",
+    "Item": "Mouse",
+    "Sale": 160
+  },
+  {
+    "Seller": "New Computers",
+    "Region": "north",
+    "Item": "Keyboard",
+    "Sale": 176
+  },
+  {
+    "Seller": "Modern Tech",
+    "Region": "south",
+    "Item": "Printer",
+    "Sale": 156
+  },
+  { "Seller": "Super Tech", "Region": "east", "Item": "Mouse", "Sale": 190 },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "west",
+    "Item": "Keyboard",
+    "Sale": 144
+  },
+  { "Seller": "Pc Zone", "Region": "north", "Item": "Printer", "Sale": 155 },
+  { "Seller": "Super Pc", "Region": "east", "Item": "Scanner", "Sale": 166 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "west",
+    "Item": "Pendrive",
+    "Sale": 144
+  },
+  {
+    "Seller": "New Computers",
+    "Region": "north",
+    "Item": "Hard Disk",
+    "Sale": 177
+  },
+  {
+    "Seller": "Modern Tech",
+    "Region": "south",
+    "Item": "Speaker",
+    "Sale": 199
+  },
+  {
+    "Seller": "Super Tech",
+    "Region": "east",
+    "Item": "Wireless Mouse",
+    "Sale": 200
+  },
+  { "Seller": "Ap Enterprise", "Region": "west", "Item": "Cpu", "Sale": 230 },
+  { "Seller": "Pc Zone", "Region": "north", "Item": "Mouse", "Sale": 430 },
+  { "Seller": "Super Pc", "Region": "south", "Item": "Keyboard", "Sale": 230 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "east",
+    "Item": "Printer",
+    "Sale": 430
+  },
+  {
+    "Seller": "New Computers",
+    "Region": "west",
+    "Item": "Wireless Mouse",
+    "Sale": 199
+  },
+  {
+    "Seller": "Modern Tech",
+    "Region": "north",
+    "Item": "Keyboard",
+    "Sale": 140
+  },
+  { "Seller": "Super Tech", "Region": "south", "Item": "Printer", "Sale": 260 },
+  { "Seller": "Ap Enterprise", "Region": "east", "Item": "Mouse", "Sale": 300 },
+  { "Seller": "Pc Zone", "Region": "west", "Item": "Keyboard", "Sale": 160 },
+  { "Seller": "Super Pc", "Region": "north", "Item": "Printer", "Sale": 176 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "east",
+    "Item": "Mouse",
+    "Sale": 156
+  },
+  {
+    "Seller": "New Computers",
+    "Region": "west",
+    "Item": "Keyboard",
+    "Sale": 190
+  },
+  {
+    "Seller": "Modern Tech",
+    "Region": "north",
+    "Item": "Printer",
+    "Sale": 144
+  },
+  { "Seller": "Super Tech", "Region": "south", "Item": "Scanner", "Sale": 155 },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "east",
+    "Item": "Pendrive",
+    "Sale": 166
+  },
+  { "Seller": "Pc Zone", "Region": "west", "Item": "Hard Disk", "Sale": 144 },
+  { "Seller": "Super Pc", "Region": "north", "Item": "Speaker", "Sale": 177 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "south",
+    "Item": "Wireless Mouse",
+    "Sale": 199
+  },
+  { "Seller": "New Computers", "Region": "east", "Item": "Cpu", "Sale": 200 },
+  { "Seller": "Modern Tech", "Region": "west", "Item": "Mouse", "Sale": 230 },
+  {
+    "Seller": "Super Tech",
+    "Region": "north",
+    "Item": "Keyboard",
+    "Sale": 430
+  },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "south",
+    "Item": "Printer",
+    "Sale": 230
+  },
+  {
+    "Seller": "Pc Zone",
+    "Region": "east",
+    "Item": "Wireless Mouse",
+    "Sale": 430
+  },
+  { "Seller": "Super Pc", "Region": "west", "Item": "Keyboard", "Sale": 199 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "north",
+    "Item": "Printer",
+    "Sale": 140
+  },
+  { "Seller": "New Computers", "Region": "east", "Item": "Mouse", "Sale": 260 },
+  {
+    "Seller": "Modern Tech",
+    "Region": "west",
+    "Item": "Keyboard",
+    "Sale": 300
+  },
+  { "Seller": "Super Tech", "Region": "north", "Item": "Printer", "Sale": 160 },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "south",
+    "Item": "Mouse",
+    "Sale": 176
+  },
+  { "Seller": "Pc Zone", "Region": "east", "Item": "Keyboard", "Sale": 156 },
+  { "Seller": "Super Pc", "Region": "west", "Item": "Printer", "Sale": 190 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "north",
+    "Item": "Scanner",
+    "Sale": 144
+  },
+  {
+    "Seller": "New Computers",
+    "Region": "south",
+    "Item": "Pendrive",
+    "Sale": 155
+  },
+  {
+    "Seller": "Modern Tech",
+    "Region": "east",
+    "Item": "Hard Disk",
+    "Sale": 166
+  },
+  { "Seller": "Super Tech", "Region": "west", "Item": "Speaker", "Sale": 144 },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "north",
+    "Item": "Wireless Mouse",
+    "Sale": 177
+  },
+  { "Seller": "Pc Zone", "Region": "south", "Item": "Cpu", "Sale": 199 },
+  { "Seller": "Super Pc", "Region": "east", "Item": "Mouse", "Sale": 200 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "west",
+    "Item": "Keyboard",
+    "Sale": 230
+  },
+  {
+    "Seller": "New Computers",
+    "Region": "north",
+    "Item": "Printer",
+    "Sale": 430
+  },
+  {
+    "Seller": "Modern Tech",
+    "Region": "east",
+    "Item": "Wireless Mouse",
+    "Sale": 230
+  },
+  { "Seller": "Super Tech", "Region": "west", "Item": "Keyboard", "Sale": 430 },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "north",
+    "Item": "Printer",
+    "Sale": 199
+  },
+  { "Seller": "Pc Zone", "Region": "south", "Item": "Mouse", "Sale": 140 },
+  { "Seller": "Super Pc", "Region": "east", "Item": "Keyboard", "Sale": 260 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "west",
+    "Item": "Printer",
+    "Sale": 300
+  },
+  {
+    "Seller": "New Computers",
+    "Region": "north",
+    "Item": "Mouse",
+    "Sale": 144
+  },
+  {
+    "Seller": "Modern Tech",
+    "Region": "south",
+    "Item": "Keyboard",
+    "Sale": 155
+  },
+  { "Seller": "Super Tech", "Region": "east", "Item": "Printer", "Sale": 166 },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "west",
+    "Item": "Scanner",
+    "Sale": 144
+  },
+  { "Seller": "Pc Zone", "Region": "north", "Item": "Pendrive", "Sale": 177 },
+  { "Seller": "Super Pc", "Region": "south", "Item": "Hard Disk", "Sale": 199 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "east",
+    "Item": "Speaker",
+    "Sale": 200
+  },
+  {
+    "Seller": "New Computers",
+    "Region": "west",
+    "Item": "Wireless Mouse",
+    "Sale": 230
+  },
+  { "Seller": "Modern Tech", "Region": "north", "Item": "Cpu", "Sale": 430 },
+  { "Seller": "Super Tech", "Region": "east", "Item": "Mouse", "Sale": 230 },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "west",
+    "Item": "Keyboard",
+    "Sale": 430
+  },
+  { "Seller": "Pc Zone", "Region": "north", "Item": "Printer", "Sale": 199 },
+  {
+    "Seller": "Super Pc",
+    "Region": "south",
+    "Item": "Wireless Mouse",
+    "Sale": 140
+  },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "east",
+    "Item": "Keyboard",
+    "Sale": 260
+  },
+  {
+    "Seller": "New Computers",
+    "Region": "west",
+    "Item": "Printer",
+    "Sale": 300
+  },
+  { "Seller": "Modern Tech", "Region": "north", "Item": "Mouse", "Sale": 160 },
+  {
+    "Seller": "Super Tech",
+    "Region": "south",
+    "Item": "Keyboard",
+    "Sale": 176
+  },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "east",
+    "Item": "Printer",
+    "Sale": 156
+  },
+  { "Seller": "Pc Zone", "Region": "west", "Item": "Mouse", "Sale": 190 },
+  { "Seller": "Super Pc", "Region": "north", "Item": "Keyboard", "Sale": 144 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "south",
+    "Item": "Printer",
+    "Sale": 155
+  },
+  {
+    "Seller": "New Computers",
+    "Region": "east",
+    "Item": "Scanner",
+    "Sale": 166
+  },
+  {
+    "Seller": "Modern Tech",
+    "Region": "west",
+    "Item": "Pendrive",
+    "Sale": 144
+  },
+  {
+    "Seller": "Super Tech",
+    "Region": "north",
+    "Item": "Hard Disk",
+    "Sale": 177
+  },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "east",
+    "Item": "Speaker",
+    "Sale": 199
+  },
+  {
+    "Seller": "Pc Zone",
+    "Region": "west",
+    "Item": "Wireless Mouse",
+    "Sale": 200
+  },
+  { "Seller": "Super Pc", "Region": "north", "Item": "Cpu", "Sale": 230 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "south",
+    "Item": "Mouse",
+    "Sale": 430
+  },
+  {
+    "Seller": "New Computers",
+    "Region": "east",
+    "Item": "Keyboard",
+    "Sale": 230
+  },
+  { "Seller": "Modern Tech", "Region": "west", "Item": "Printer", "Sale": 430 },
+  {
+    "Seller": "Super Tech",
+    "Region": "north",
+    "Item": "Wireless Mouse",
+    "Sale": 199
+  },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "south",
+    "Item": "Keyboard",
+    "Sale": 140
+  },
+  { "Seller": "Pc Zone", "Region": "east", "Item": "Printer", "Sale": 260 },
+  { "Seller": "Super Pc", "Region": "west", "Item": "Mouse", "Sale": 300 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "north",
+    "Item": "Keyboard",
+    "Sale": 144
+  },
+  {
+    "Seller": "New Computers",
+    "Region": "south",
+    "Item": "Printer",
+    "Sale": 155
+  },
+  { "Seller": "Modern Tech", "Region": "east", "Item": "Mouse", "Sale": 166 },
+  { "Seller": "Super Tech", "Region": "west", "Item": "Keyboard", "Sale": 144 },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "north",
+    "Item": "Printer",
+    "Sale": 177
+  },
+  { "Seller": "Pc Zone", "Region": "east", "Item": "Scanner", "Sale": 199 },
+  { "Seller": "Super Pc", "Region": "west", "Item": "Pendrive", "Sale": 200 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "north",
+    "Item": "Hard Disk",
+    "Sale": 230
+  },
+  {
+    "Seller": "New Computers",
+    "Region": "south",
+    "Item": "Speaker",
+    "Sale": 430
+  },
+  {
+    "Seller": "Modern Tech",
+    "Region": "east",
+    "Item": "Wireless Mouse",
+    "Sale": 230
+  },
+  { "Seller": "Super Tech", "Region": "west", "Item": "Cpu", "Sale": 430 },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "north",
+    "Item": "Mouse",
+    "Sale": 199
+  },
+  { "Seller": "Pc Zone", "Region": "south", "Item": "Keyboard", "Sale": 140 },
+  { "Seller": "Super Pc", "Region": "east", "Item": "Printer", "Sale": 260 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "west",
+    "Item": "Wireless Mouse",
+    "Sale": 300
+  },
+  {
+    "Seller": "New Computers",
+    "Region": "north",
+    "Item": "Keyboard",
+    "Sale": 160
+  },
+  {
+    "Seller": "Modern Tech",
+    "Region": "south",
+    "Item": "Printer",
+    "Sale": 176
+  },
+  { "Seller": "Super Tech", "Region": "east", "Item": "Mouse", "Sale": 156 },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "west",
+    "Item": "Keyboard",
+    "Sale": 190
+  },
+  { "Seller": "Pc Zone", "Region": "north", "Item": "Printer", "Sale": 144 },
+  { "Seller": "Super Pc", "Region": "east", "Item": "Mouse", "Sale": 155 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "west",
+    "Item": "Keyboard",
+    "Sale": 166
+  },
+  {
+    "Seller": "New Computers",
+    "Region": "north",
+    "Item": "Printer",
+    "Sale": 144
+  },
+  {
+    "Seller": "Modern Tech",
+    "Region": "south",
+    "Item": "Scanner",
+    "Sale": 177
+  },
+  { "Seller": "Super Tech", "Region": "east", "Item": "Pendrive", "Sale": 199 },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "west",
+    "Item": "Hard Disk",
+    "Sale": 200
+  },
+  { "Seller": "Pc Zone", "Region": "north", "Item": "Speaker", "Sale": 230 },
+  {
+    "Seller": "Super Pc",
+    "Region": "south",
+    "Item": "Wireless Mouse",
+    "Sale": 430
+  },
+  { "Seller": "Abc Enterprise", "Region": "east", "Item": "Cpu", "Sale": 230 },
+  { "Seller": "New Computers", "Region": "west", "Item": "Mouse", "Sale": 430 },
+  {
+    "Seller": "Modern Tech",
+    "Region": "north",
+    "Item": "Keyboard",
+    "Sale": 199
+  },
+  { "Seller": "Super Tech", "Region": "south", "Item": "Printer", "Sale": 140 },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "east",
+    "Item": "Wireless Mouse",
+    "Sale": 260
+  },
+  { "Seller": "Pc Zone", "Region": "west", "Item": "Keyboard", "Sale": 300 },
+  { "Seller": "Super Pc", "Region": "north", "Item": "Printer", "Sale": 144 },
+  {
+    "Seller": "Abc Enterprise",
+    "Region": "east",
+    "Item": "Mouse",
+    "Sale": 155
+  },
+  {
+    "Seller": "New Computers",
+    "Region": "west",
+    "Item": "Keyboard",
+    "Sale": 166
+  },
+  {
+    "Seller": "Modern Tech",
+    "Region": "north",
+    "Item": "Printer",
+    "Sale": 144
+  },
+  { "Seller": "Super Tech", "Region": "south", "Item": "Mouse", "Sale": 177 },
+  {
+    "Seller": "Ap Enterprise",
+    "Region": "east",
+    "Item": "Keyboard",
+    "Sale": 156
+  }
+]
