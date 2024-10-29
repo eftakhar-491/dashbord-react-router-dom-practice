@@ -1,9 +1,19 @@
 import React, { useEffect, useState } from "react";
-import { BarChart, Bar, ResponsiveContainer, XAxis, YAxis } from "recharts";
+import {
+  BarChart,
+  Bar,
+  ResponsiveContainer,
+  XAxis,
+  YAxis,
+  Rectangle,
+  CartesianGrid,
+  Tooltip,
+  Legend,
+} from "recharts";
 
 export default function BarChart1({ categoryData }) {
   console.log(categoryData);
-  const [barData, setBarData] = useState([]);
+  const [barData, setBarData] = useState();
 
   useEffect(() => {
     let mouse = categoryData.filter((item) => item.Item === "Mouse");
@@ -64,11 +74,39 @@ export default function BarChart1({ categoryData }) {
 
   return (
     <ResponsiveContainer width="100%" height="100%">
-      <BarChart width={150} height={40} data={barData} barSize={29}>
+      <BarChart
+        width={500}
+        height={300}
+        data={barData}
+        margin={{
+          top: 5,
+          right: 30,
+          left: 20,
+          bottom: 5,
+        }}
+      >
+        <CartesianGrid strokeDasharray="3 3" />
         <XAxis dataKey="name" />
         <YAxis />
-        <Bar dataKey="val" fill="#8884d8" />
+        <Tooltip />
+        <Legend />
+        <Bar
+          dataKey="val"
+          fill="#8884d8"
+          activeBar={<Rectangle fill="pink" stroke="blue" />}
+        />
       </BarChart>
     </ResponsiveContainer>
+    // <ResponsiveContainer width="100%" height="100%">
+    //   <BarChart width={150} height={40} data={barData} barSize={29}>
+    //     <XAxis dataKey="name" />
+    //     <YAxis />
+    //     <Bar
+    //       dataKey="val"
+    //       fill="#8884d8"
+    //       activeBar={<Rectangle fill="pink" stroke="blue" />}
+    //     />
+    //   </BarChart>
+    // </ResponsiveContainer>
   );
 }
