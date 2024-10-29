@@ -12,10 +12,10 @@ export default function DeshBord() {
   const [categoryData, setCategoryData] = useState([]);
   const [piData, setPiData] = useState([
     { itemCategory: [] },
-    { name: "east", value: 0 },
-    { name: "west", value: 0 },
-    { name: "south", value: 0 },
-    { name: "north", value: 0 },
+    { name: "east", value: 10 },
+    { name: "west", value: 20 },
+    { name: "south", value: 30 },
+    { name: "north", value: 40 },
   ]);
 
   useEffect(() => {
