@@ -34,7 +34,16 @@ export default function DeshBord() {
 
     setCategoryData(allData.filter((item) => item.Seller === clickedData));
   }
+  useEffect(() => {
+    setPiData([
+      { name: "east", value: 100 },
+      { name: "west", value: 200 },
+      { name: "south", value: 150 },
+      { name: "north", value: 350 },
+    ]);
+  }, []);
   function handelItem(data) {
+    console.log(data);
     let east = categoryData
       .filter((item) => data === item.Item)
       .filter((item) => item.Region === "east")
@@ -92,11 +101,7 @@ export default function DeshBord() {
         <section className="h-[500px]">
           {/* chart  */}
 
-          {categoryData.length === 0 ? (
-            ""
-          ) : (
-            <BarChart1 categoryData={categoryData} />
-          )}
+          <BarChart1 categoryData={categoryData} />
         </section>
       </section>
     </>
